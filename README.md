@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Presem - Online Music Player</title>
@@ -115,7 +113,6 @@
         }
     </style>
 </head>
-<body>
 
 <div class="container">
     <header>
